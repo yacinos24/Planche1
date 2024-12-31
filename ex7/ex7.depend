@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\hpp\desktop\ex7\main.cpp
+	<iostream>
+
+1729710617 source:c:\users\hpp\desktop\cpi2s1\c++\ex7\main.cpp
+	<iostream>
+	<vector>
+
